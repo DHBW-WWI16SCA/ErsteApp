@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ErsteApp</string>
+    <string name="welcome_text">Willkommen WWI16SCA!</string>
+    <string name="next_activity">Nächste Aktivität</string>
+</resources>
